@@ -1,0 +1,17 @@
+{
+  "name": "css-namespace",
+  "version": "0.0.1",
+  "description": "css-namespace-tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["css", "namespace"],
+  "author": "Roy Huang",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-css-wrap": "^0.1.2"
+  }
+}
